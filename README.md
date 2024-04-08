@@ -1,7 +1,7 @@
 # tago_esp32
 
 ###  Initialize the tago by adding userdata to tago initialising class <br/>
-  **tago tag("xyz-wifi", "tha-pass", "YOUR_API_KEY");**<br/>
+  **tago tag("xyz-wifi", "the-pass", "YOUR_API_KEY");**<br/>
   *  Create a account in tago.io and verify your e-mail.
   *  Generate a token and paste it in place of **"YOUR_API_KEY"**.
   *  Enter the SSID and Password of your WiFi in place of "xyz-wifi" and "tha-pass".
