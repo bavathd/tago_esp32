@@ -4,7 +4,7 @@
   **tago tag("xyz-wifi", "the-pass", "YOUR_API_KEY");**<br/>
   *  Create a account in tago.io and verify your e-mail.
   *  Generate a token and paste it in place of **"YOUR_API_KEY"**.
-  *  Enter the SSID and Password of your WiFi in place of "xyz-wifi" and "tha-pass".
+  *  Enter the SSID and Password of your WiFi in place of "xyz-wifi" and "the-pass".
 
     
 ### Connect to the wifi network<br/>
