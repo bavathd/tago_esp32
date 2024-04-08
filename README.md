@@ -10,5 +10,5 @@
 ### Connect to the wifi network<br/>
   **tag.connectWifi()**<br/>
 
-### Send the sensor data to cloud using the sned function<br/>
+### Send the sensor data to cloud using the send function<br/>
   **tag.send("enter your variable name", String(your data));**<br/>
