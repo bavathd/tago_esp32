@@ -17,8 +17,8 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   float value1 = random(0,9) * 10;
-  float value2 =  random(0,10) * 0.01;
-  int value3 = random(0,100) * 100;
+  float value2 =  random(0,9) * 0.01;
+  int value3 = random(0,9) * 100;
  
   tag.sendData("value1", String(value1));   // To send to tago cloud
   tag.sendData("value2", String(value2));
