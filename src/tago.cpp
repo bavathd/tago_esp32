@@ -20,8 +20,9 @@ bool tago::connectWifi() {
             Serial.println("\nConnection Timeout");
             return false;
         }
-        return true;
+     
 }
+       return true;
 
 }
 
